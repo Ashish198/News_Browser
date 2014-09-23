@@ -1,0 +1,9 @@
+E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\NewsBrowser.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.0\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.Linq.dll
+E:\Ashish\MobileApps\NewsBrowser\Components\facebookandroid-3.17.2.0\lib\android\Xamarin.Android.Support.v4.dll
+E:\Ashish\MobileApps\NewsBrowser\Components\facebookandroid-3.17.2.0\lib\android\Xamarin.Facebook.dll
