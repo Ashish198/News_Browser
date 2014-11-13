@@ -192,7 +192,7 @@ containing a value of this type.
         public static final int com_facebook_list_section_header_background=0x7f02000d;
         public static final int com_facebook_loginbutton_silver=0x7f02000e;
         public static final int com_facebook_logo=0x7f02000f;
-        public static final int com_facebook_picker_default_separator_color=0x7f020029;
+        public static final int com_facebook_picker_default_separator_color=0x7f02002a;
         public static final int com_facebook_picker_item_background=0x7f020010;
         public static final int com_facebook_picker_list_focused=0x7f020011;
         public static final int com_facebook_picker_list_longpressed=0x7f020012;
@@ -218,6 +218,7 @@ containing a value of this type.
         public static final int com_facebook_top_button=0x7f020026;
         public static final int com_facebook_usersettingsfragment_background_gradient=0x7f020027;
         public static final int icon=0x7f020028;
+        public static final int monoandroidsplash=0x7f020029;
     }
     public static final class id {
         public static final int BtnProceed=0x7f040024;
@@ -249,15 +250,17 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_profile_name=0x7f04001b;
         public static final int fragment_container=0x7f040025;
         public static final int greeting=0x7f040022;
-        public static final int imageView1=0x7f04001d;
         public static final int large=0x7f040002;
-        public static final int listView1=0x7f04001e;
         public static final int login_button=0x7f040020;
+        public static final int lstCategory=0x7f04001e;
         public static final int main_ui_container=0x7f04001f;
         public static final int normal=0x7f040001;
         public static final int picker_subtitle=0x7f040012;
         public static final int profilePicture=0x7f040023;
+        public static final int relativeLayout1=0x7f040026;
         public static final int small=0x7f040000;
+        public static final int textView1=0x7f04001d;
+        public static final int webView1=0x7f040027;
     }
     public static final class layout {
         public static final int com_facebook_friendpickerfragment=0x7f030000;
@@ -277,6 +280,7 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment=0x7f03000e;
         public static final int home=0x7f03000f;
         public static final int main=0x7f030010;
+        public static final int test=0x7f030011;
     }
     public static final class string {
         public static final int app_id=0x7f070028;
@@ -323,6 +327,7 @@ containing a value of this type.
         public static final int you_picked=0x7f070024;
     }
     public static final class style {
+        public static final int Mono_Android_Theme_Splash=0x7f080003;
         public static final int com_facebook_loginview_default_style=0x7f080000;
         public static final int com_facebook_loginview_silver_style=0x7f080001;
         public static final int tooltip_bubble_text=0x7f080002;

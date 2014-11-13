@@ -2,6 +2,7 @@ E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\NewsBrowser.dll
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\NewsBrowser.pdb
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\NewsBrowser.NewsBrowser.apk
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\NewsBrowser.NewsBrowser-Signed.apk
+E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\RestSharp.MonoDroid.dll
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\Xamarin.Android.Support.v4.dll
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Release\Xamarin.Facebook.dll
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\obj\Release\NewsBrowser.csprojResolveAssemblyReference.cache

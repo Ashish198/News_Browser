@@ -208,7 +208,8 @@ namespace NewsBrowser
 			Session session = Session.ActiveSession;
 			bool enableButtons = (session != null && session.IsOpened);
 
-            BtnProceed.Enabled = (enableButtons);
+            //BtnProceed.Enabled = (enableButtons);
+            BtnProceed.Enabled = true;
 
 			if (enableButtons && user != null) {
 				profilePictureView.ProfileId = (user.Id);

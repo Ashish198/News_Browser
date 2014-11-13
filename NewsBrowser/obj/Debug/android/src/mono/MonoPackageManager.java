@@ -68,6 +68,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"NewsBrowser.dll",
+		"RestSharp.MonoDroid.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Facebook.dll",
 	};

@@ -1,4 +1,7 @@
+NewsBrowser.Adapters.CategoryAdapter;newsbrowser.adapters.CategoryAdapter
 NewsBrowser.Home;newsbrowser.Home
+NewsBrowser.MyWebViewClient;newsbrowser.MyWebViewClient
+NewsBrowser.MyWebView;newsbrowser.MyWebView
 NewsBrowser.MainActivity;newsbrowser.MainActivity
 NewsBrowser.MainActivity.MyStatusCallback;newsbrowser.MainActivity_MyStatusCallback
 NewsBrowser.MainActivity.MyUserInfoChangedCallback;newsbrowser.MainActivity_MyUserInfoChangedCallback

@@ -18,3 +18,5 @@ E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\obj\Debug\res\drawable-xhdpi\icon.p
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\obj\Debug\res\layout\main.xml
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\obj\Debug\R.cs.flag
 E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\obj\Debug\uploadflags.txt
+E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\bin\Debug\RestSharp.MonoDroid.dll
+E:\Ashish\MobileApps\NewsBrowser\NewsBrowser\obj\Debug\res\layout\test.xml
